@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 public class Everyone_Loves_to_Sleep {
-    public static void main(String[] args){
-        Scanner sc=new Scanner(System.in);
-        int t= sc.nextInt();
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
         while (t-->0){
             int n=sc.nextInt();
             int H=sc.nextInt();
